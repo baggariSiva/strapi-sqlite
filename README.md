@@ -2,7 +2,7 @@
 
 <a href="https://dash.elest.io/deploy?source=cicd&social=Github&url=https://github.com/elestio-examples/strapi-sqlite"><img src="public\deploy-on-elestio.png" alt="Deploy on Elest.io" width="180px" /></a>
 
-This is a very basic example of a simple Strapi-sqlite template.
+A starter Template for Strapi with sqlite database.
 
 <img src="public\screenshot.png" alt="screenshot of the Strapi app" width="100%" />
 
@@ -25,6 +25,8 @@ cd strapi-sqlite
 ```
 npm install
 ```
+
+Rename `.env.sample` to `.env`
 
 ### Step 4: Run your app in dev mode.
 
