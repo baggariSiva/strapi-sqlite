@@ -4,7 +4,7 @@
 
 This is a very basic example of a simple Strapi-sqlite template.
 
-<img src="public\screenshot-1.jpg" alt="screenshot of the Strapi app" width="100%" />
+<img src="public\screenshot.png" alt="screenshot of the Strapi app" width="100%" />
 
 # Steps to clone this repository and run locally.
 
