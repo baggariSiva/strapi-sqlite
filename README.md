@@ -1,6 +1,6 @@
 # Strapi with Sqlite Database on Elestio
 
-This is a minimal example of a Strapi site with sqlite database created using npx create-strapi-app@latest.
+This is a minimal example of a Strapi site with sqlite database created using create-strapi-app
 
 Click on the button below to deploy this repository with CI/CD on Elestio:
 
@@ -14,7 +14,7 @@ Click on the button below to deploy this repository with CI/CD on Elestio:
 ### Step 1: Clone this repository
 
 ```
-git clone https://www.github.com/elestio-examples/strapi-sqlite.git
+git clone YOUR_REPOSITORY_URL
 ```
 ### Step 2: Go to project folder
 
@@ -37,6 +37,6 @@ npm run develop
 ```
 
 ### Step 5: Make some changes and push
-Try to make some change and then push to the git repository.
+Try to make some change in your strapi-sqlite project then push to the git repository
 
 After few seconds to few minutes your change will be deployed on your CI/CD target 🚀
